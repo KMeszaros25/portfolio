@@ -5,4 +5,4 @@ I am still working on getting all of the repositories for past projects to be pu
 - Measuring the Madness: [[report](Measuring_The_Madness.pdf)]
 - Hospital Quality Analysis: [[report](project.pdf)]
 - Hand Gesture Classification [[report](hand_gesture_classification_report.pdf)] [[code](hand_gesture_classification.ipynb)]
-- Prediction Market Arbitrage Analysis [[code](prediction_market_arbitrage_analysis.py)]
+- Prediction Market Arbitrage Analysis [[code](Prediction_market_arbitrage_analysis.py)]
