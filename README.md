@@ -4,3 +4,5 @@ I am still working on getting all of the repositories for past projects to be pu
 - Soccer Play Style Analysis: [[presentation](https://docs.google.com/presentation/d/1KlMc1l4u0ZAiWPUT4aadofs3gWuqjvrchy5Ek3yBH3s/edit?usp=sharing)]
 - Measuring the Madness: [[report](Measuring_The_Madness.pdf)]
 - Hospital Quality Analysis: [[report](project.pdf)]
+- Hand Gesture Classification [[report](hand_gesture_classification_report.pdf)] [[code](hand_gesture_classification.ipynb)]
+- Prediction Market Arbitrage Analysis [[code](prediction_market_arbitrage_analysis.py)]
